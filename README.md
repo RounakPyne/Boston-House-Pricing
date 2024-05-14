@@ -2,9 +2,9 @@
 **Data Set Characteristics:** : Number of Instances: 506
 Number of Attributes: 13 numeric/categorical predictive. Median Value (attribute 14) is usually the target.
 
-:Attribute Information (in order):
- CRIM - per capita crime rate by town
- ZN - proportion of residential land zoned for lots over 25,000 sq.ft.
+Attribute Information (in order)
+CRIM - per capita crime rate by town
+ZN - proportion of residential land zoned for lots over 25,000 sq.ft.
 INDUS - proportion of non-retail business acres per town
 CHAS - River dummy variable (= 1 if tract bounds river; 0 otherwise)
 NOX - oxides concentration (parts per 10 million)
@@ -22,4 +22,3 @@ PTRATIO  -pupil-teacher ratio by town
 2. [VS code IDE]
 3. [GitHub Desktop]
 4. [Heroku Account]
-5. [Git CLI]
