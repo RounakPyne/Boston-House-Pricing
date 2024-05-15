@@ -21,6 +21,6 @@
 ### Softwares and tools used:
 
 1. [Github Account]
-2. [VS code IDE]
-3. [GitHub Desktop]
-4. [Heroku Account]
+2. Python
+3. Matplotlib and Seaborn
+4. sklearn
